@@ -4,8 +4,8 @@
 <img src="https://media.giphy.com/media/b0VK26c9Ne0ak/giphy.gif" width="100%"></img>
 ### Hi there  👋
 
-[![bilal's github stats](https://github-readme-stats.vercel.app/api?username=mrzmuh001&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![bilal's github stats](https://github-readme-stats.vercel.app/api?username=MRZMUH001&count_private=true&show_icons=true)]
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mrzmuh001&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MRZMUH001&layout=compact)]
 
 
